@@ -1,0 +1,6 @@
+﻿  ConsoleApplication4.cpp
+D:\С++\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(27,26): error C2248: Stack::head: невозможно обратиться к private член, объявленному в классе "Stack"
+D:\С++\ConsoleApplication4\ConsoleApplication4\Header.h(21,11): message : см. объявление "Stack::head"
+D:\С++\ConsoleApplication4\ConsoleApplication4\Header.h(9,7): message : см. объявление "Stack"
+  Source.cpp
+  Создание кода...
